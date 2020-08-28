@@ -11,7 +11,7 @@ cd frontend
 index.html
 ```
 
-The system consists of back-end and front-end parts.
+The system consists of backend and frontend parts.
 
 The backend handles the following requests:
 ```
