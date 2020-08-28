@@ -14,7 +14,9 @@ index.html
 The system consists of back-end and front-end parts.
 
 The backend handles the following requests:
+```
 api/authors/ - get list of authors
 api/shelves/ - get list of shelves
 api/authors/<str:author_name>/books/ - get list of books for specific author
 api/shelves/<str:shelf_name>/shelves/ - get list of books for specific shelf
+```
