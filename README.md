@@ -2,12 +2,14 @@
 
 The development of this system is part of the test task.
 
+```
 cd backend
 pip install -r requirements.txt
 python manage.py runserver
 cd ..
 cd frontend
 index.html
+```
 
 The system consists of back-end and front-end parts.
 
